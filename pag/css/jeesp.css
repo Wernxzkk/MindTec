@@ -1,0 +1,32 @@
+body{
+    color: black;
+}
+
+.jeesp{
+    color: white;
+}
+
+.jeesp img{
+    margin-left: 86vh;
+    margin-top: 5vh;
+    mix-blend-mode: multiply;
+}
+
+.jeesp h2{
+    margin-top: 15vh;
+    text-align: center;
+}
+
+.jeesp p{
+    font-size: 17px;
+    margin-top: 3vh;
+    margin-left: 13vh;
+    margin-right: 3vh;
+    text-align: center;
+}
+
+.link a{
+    color: white;
+    margin-left: 50%;
+    margin-top: 100%;
+}

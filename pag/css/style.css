@@ -1,0 +1,122 @@
+.fundo h1{
+    margin-left: 44vw;
+    margin-top: 3vh;
+}
+
+.fundo img{
+    margin-top: 3vh;
+    margin-left: 41vw;
+    border-radius: 50%;
+}
+
+.fundo p{
+    margin-top: 2vh;
+    text-align: center;
+}
+
+.intro{
+    margin-top: 5vh;
+    text-align: center;
+}
+
+
+.intro p{
+    margin-top: 10px;
+}
+
+.outros{
+    margin-top: 5vh;
+    text-align: center;
+}
+
+
+footer{
+    margin-top: 10vh;
+    text-align: center;
+}
+
+@media (max-width: 767px){
+    .fundo img{
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        margin-left: 40%;
+    }
+    p{
+        text-align: center;
+        margin-left: 10%;
+    }
+    .fundo h1{
+        margin-left: 40%;
+    }
+    .intro h2{
+        margin-left: 10%;
+    }
+    .outros h4{
+        margin-left: 10%;
+    }
+    .outros span{
+        margin-left: 10%;
+    }
+    footer{
+        bottom: 0;
+        margin-left: 10%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .fundo img{
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        margin-left: 40%;
+    }
+    p{
+        text-align: center;
+        margin-left: 10%;
+    }
+    .fundo h1{
+        margin-left: 40%;
+    }
+    .intro h2{
+        margin-left: 10%;
+    }
+    .outros h4{
+        margin-left: 10%;
+        padding: 0.8vh;
+    }
+    .outros span{
+        margin-left: 10%;
+    }
+    footer{
+        bottom: 0;
+        margin-left: 10%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .fundo img{
+        margin-left: 37%;
+    }
+    p{
+        text-align: center;
+        margin-left: 10%;
+    }
+    .fundo h1{
+        margin-left: 42%;
+    }
+    .intro h2{
+        margin-left: 8%;
+    }
+    .outros h4{
+        margin-left: 8%;
+        padding: 0.8vh;
+    }
+    .outros span{
+        margin-left: 8%;
+    }
+    footer{
+        bottom: 0;
+        margin-left: 8%;
+    }
+}

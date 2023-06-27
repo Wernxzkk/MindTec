@@ -1,0 +1,86 @@
+.card{
+    width: 102vh;
+    height: 467px;
+    margin-top: 10vh;
+    margin-left: 53vh;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0 15px 30px -5px;
+    background-image: linear-gradient(157deg,#9500ff, #000 50%, #FFD100);
+}
+
+.card__content{
+    background: rgb(5, 6, 45);
+    border-radius: 17px;
+    width: 100%;
+    height: 100%;
+}
+
+.card__content img{
+    border-radius: 5px;
+    margin-top: 2.5vh;
+    margin-left: 2vh;
+}
+
+.card__content h3{
+    margin-top: -37vh;
+    margin-left: 55vh;
+    text-align: center;
+}
+
+.card__content p{
+    font-size: 15px;
+    margin-top: 6vh;
+    margin-left: 55vh;
+    text-align: center;
+}
+
+.round{
+    margin-left: 19vh;
+}
+
+.round h1{
+    margin-left: 20vh;
+}
+
+.round li{
+    margin-top: 1.5vh;
+    margin-left: 5vh;
+}
+
+.round h2{
+    margin-top: 3vh;
+    margin-left: 6vh;    
+}
+
+.round2{
+    margin-top: -19.4vh;
+    margin-left: 57vh;
+}
+
+.round2 h2{
+    margin-top: 3vh;
+    margin-left: 6vh;    
+}
+
+.round2 li{
+    margin-top: 3vh;
+    margin-left: 5vh;
+}
+
+.roundend{
+    margin-top: 7vh;
+    text-align: center;
+}
+.roundend li{
+    margin-top: 1.5vh;
+}
+
+.winner{
+    margin-top: 3vh;
+    text-align: center;
+}
+
+.winner li{
+    margin-top: 1.5vh;
+}
